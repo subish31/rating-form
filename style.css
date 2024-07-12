@@ -1,0 +1,109 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:125vh;
+}
+.all{
+    height:700px;
+    width:600px;
+}
+.head{
+    
+    display:flex;
+    gap:250px;
+    padding:15px;
+    background-color: rgb(15, 109, 15);
+    color: white;
+    margin-bottom:7px;
+}
+h3{
+    padding-top: 4px;
+}
+.first{
+    width:300px;
+    margin:10px;
+}
+.sec{
+    width:140px;
+    margin:7px;
+}
+.third{
+    width:82px;
+    margin:7px;
+}
+.one{
+    display:flex;
+    gap:150px;
+}
+.two{
+    display:flex;
+    gap:82px;
+}
+.four{
+    display:flex;
+    gap:80px;
+}
+.five{
+    display:flex;
+    gap:100px;
+}
+.eight{
+    display:flex;
+    gap:158px;
+}
+.nine{
+    display:flex;
+    gap:196px;
+}
+.three{
+    display:flex;
+    gap:118px;
+    margin:4px;
+}
+.six{
+    display:flex;
+    gap:83px;
+    margin:7px;
+}
+.an{
+    display:flex;
+}
+.ano{
+    display:flex;
+    gap:10px;
+}
+.seven{
+    display:flex;
+    gap:110px;
+}
+.ten{
+    display:flex;
+    gap:90px;
+}
+hr{
+    width:305px;
+    margin:15px;
+}
+.fin{
+    margin-top:10px;
+}
+.con{
+    margin-top:8px;
+}
+.content{
+    padding-left:15px;
+    
+}
+.com{
+    margin-top:5px;
+}
+.ins
+{
+    margin-top:5px;
+}
+
